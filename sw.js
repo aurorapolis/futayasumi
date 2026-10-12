@@ -1,4 +1,4 @@
-const CACHE_NAME = 'futayasumi-v4';
+const CACHE_NAME = 'futayasumi-v5';
 const ASSETS = [
   './',
   './index.html',
